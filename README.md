@@ -8,14 +8,14 @@ Este é o meu primeiro projeto pessoal em Python, um jogo simples e interativo d
 * **Módulo `random`:** Usado para gerar a escolha aleatória do computador.
 * **Controle de fluxo:** Loops `while` e condicionais `if/elif/else`.
 
-* ## 🚀 Funcionalidades
+## 🚀 Funcionalidades
 
 * **Jogo Interativo:** O usuário joga contra o computador, que faz uma escolha aleatória.
 * **Loop Contínuo:** O jogo continua em um loop, permitindo várias rodadas, e só para quando o usuário decide sair.
 * **Validação de Entrada:** O programa trata entradas inválidas para garantir que o jogo funcione corretamente.
 * **Lógica de Vitória/Derrota:** O código determina e exibe o resultado de cada rodada com base nas regras do jogo.
 
-* ## 💡 Como Rodar o Projeto
+## 💡 Como Rodar o Projeto
 
 1.  Clone este repositório para sua máquina local.
 2.  Abra o arquivo `pedra_papel_tesoura.py` em um editor de código (como o PyCharm ou VS Code).
